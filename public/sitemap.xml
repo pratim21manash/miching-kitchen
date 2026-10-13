@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-DOMAIN with the production domain before deploying. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc></url>
+  <url><loc>https://YOUR-DOMAIN/menu</loc></url>
+  <url><loc>https://YOUR-DOMAIN/story</loc></url>
+  <url><loc>https://YOUR-DOMAIN/visit</loc></url>
+</urlset>
